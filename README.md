@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Junior</h1>
 <h3 align="center">Estudando para ser um futuro Cientista de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Análise de Dados e Machine Learning**
+- 🌱 Atualmente estou aprendendo **Análise de Dados e Flutter**
 
-- Me pergunte sobre **Análise de Dados, SQL, Excel, Power BI, Python**
+- Me pergunte sobre **Análise de Dados, SQL, Excel, Power BI, Python, Flutter**
 
 - 📫 Você me acha em **gilmar_junior_carvalho@hotmail.com / instagram: Gilmarjr._**
 

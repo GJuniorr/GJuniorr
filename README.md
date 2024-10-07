@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Análise de Dados e Flutter**
 
-- Me pergunte sobre **Análise de Dados, SQL, Excel, Power BI, Python, Flutter**
+- Me pergunte sobre **Análise de Dados, SQL, Excel, Power BI, Flutter, Firebase**
 
 - 📫 Você me acha em **gilmar_junior_carvalho@hotmail.com / instagram: Gilmarjr._**
 
